@@ -1,4 +1,4 @@
-## ✨ Uçak Bilet Rezervasyon Sistemi – Java OOP
+##  Uçak Bilet Rezervasyon Sistemi – Java OOP
 
 Bu projede Java programlama dili kullanılarak konsol tabanlı bir uçak bilet rezervasyon sistemi geliştirilmiştir. Uygulama nesne yönelimli programlama (OOP) ilkelerine uygun olarak yazılmıştır.
 
@@ -31,7 +31,7 @@ Bu projede Java programlama dili kullanılarak konsol tabanlı bir uçak bilet r
 
 ---
 
-## ▶️ Çalıştırmak İçin
+## Çalıştırmak İçin
 
 1. Java 17+ ve bir IDE (IntelliJ önerilir) kurulu olmalıdır
 2. `Main.java` dosyası çalıştırıldığında menü üzerinden işlemler yapılabilir
